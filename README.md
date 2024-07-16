@@ -13,10 +13,10 @@ This is a benchmarking and data-visualisation program for encryption libraries i
 
 ## Example:
 1. Run 3-Data_Visualisation.ipynb
-2. While 3-Data_Visualisation.ipyn is running, run the following
+2. While 3-Data_Visualisation.ipynb is running, run the following
 ```
 cd 2.1-TestAES
 gcc 2.1-TestAES aes.c -o output -ltomcrypt
 ./output
 ```
-3. Check that data appears correctly in 3-Data_Visualisation.ipyn
+3. Check that data appears correctly in 3-Data_Visualisation.ipynb
